@@ -1,0 +1,36 @@
+*
+{
+    
+    box-sizing:border-box !important;
+}
+.button
+{
+    width:100vw;
+    position:fixed;
+    bottom:0;
+    z-index:3;
+    padding:0 15px;
+    padding-bottom:3px;
+    background:rgb(245, 245, 245);
+}
+.icon
+{
+    display:flex !important;
+    justify-content:flex-end !important;
+    align-items:center !important;
+    gap:10px !important;
+}
+.navbar-bg
+{
+   background-color: rgba(16, 146, 252, 0.962)!important;
+}
+.bcolor
+{
+    background-color:rgba(49, 225, 96, 0.036) !important;
+    width:100%!important;
+    height:100%!important;
+}
+
+.image{
+    cover:fill;
+}
